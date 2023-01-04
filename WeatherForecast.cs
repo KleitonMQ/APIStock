@@ -1,4 +1,4 @@
-namespace APISale;
+namespace APIStock;
 
 public class WeatherForecast
 {
