@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gOOVZTDC5JOUxY/wuUwsXIBngv5bI2a1M3EXH/Wququ6h8inz9XTxPFJMc55k4oMfLi4lNqZJCtqtRyiwZ3aZw==",
+  "dgSpecHash": "sFxY6/Av611jVWsoVPgp3MS4N1BCbXTqSoDzD1XH6pAtIBiYwy0pHdxxsM58zZqjel8xv9cZoJArIVADlmTJZw==",
   "success": true,
-  "projectFilePath": "E:\\ProjetosDev\\Mentoria\\APISale\\APISale.csproj",
+  "projectFilePath": "E:\\ProjetosDev\\Mentoria\\APIStock\\APIStock.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Moosh\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Moosh\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

@@ -3905,6 +3905,7 @@
     "net7.0": [
       "Microsoft.AspNetCore.OpenApi >= 7.0.0",
       "Microsoft.EntityFrameworkCore >= 7.0.1",
+      "Microsoft.EntityFrameworkCore.Design >= 7.0.1",
       "Microsoft.EntityFrameworkCore.SqlServer >= 7.0.1",
       "Microsoft.EntityFrameworkCore.Tools >= 7.0.1",
       "Swashbuckle.AspNetCore >= 6.4.0"
@@ -3916,11 +3917,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\ProjetosDev\\Mentoria\\APISale\\APISale.csproj",
-      "projectName": "APISale",
-      "projectPath": "E:\\ProjetosDev\\Mentoria\\APISale\\APISale.csproj",
+      "projectUniqueName": "E:\\ProjetosDev\\Mentoria\\APIStock\\APIStock.csproj",
+      "projectName": "APIStock",
+      "projectPath": "E:\\ProjetosDev\\Mentoria\\APIStock\\APIStock.csproj",
       "packagesPath": "C:\\Users\\Moosh\\.nuget\\packages\\",
-      "outputPath": "E:\\ProjetosDev\\Mentoria\\APISale\\obj\\",
+      "outputPath": "E:\\ProjetosDev\\Mentoria\\APIStock\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Moosh\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -3952,6 +3953,12 @@
             "version": "[7.0.0, )"
           },
           "Microsoft.EntityFrameworkCore": {
+            "target": "Package",
+            "version": "[7.0.1, )"
+          },
+          "Microsoft.EntityFrameworkCore.Design": {
+            "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+            "suppressParent": "All",
             "target": "Package",
             "version": "[7.0.1, )"
           },

@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/APISale.csproj",
+                "${workspaceFolder}/APIStock.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -19,7 +19,7 @@
             "type": "process",
             "args": [
                 "publish",
-                "${workspaceFolder}/APISale.csproj",
+                "${workspaceFolder}/APIStock.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -33,7 +33,7 @@
                 "watch",
                 "run",
                 "--project",
-                "${workspaceFolder}/APISale.csproj"
+                "${workspaceFolder}/APIStock.csproj"
             ],
             "problemMatcher": "$msCompile"
         }
