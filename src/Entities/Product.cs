@@ -13,7 +13,7 @@ namespace APIStock.src.Entities
             this.Quantity = quantity;
         }
         public int ID { get; set; }
-        public string? Name { get; set; }
+        public string Name { get; set; }
         public int Quantity { get; set; }
 
         public void AddQuantity(int valueToAdd)
